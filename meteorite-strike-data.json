@@ -1,6 +1,31 @@
 {
   "type": "FeatureCollection",
   "features": [
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.63333,
+          32.03333
+        ]
+      },
+      "properties": {
+        "mass": "45000",
+        "name": "Kyushu",
+        "reclong": "130.633330",
+        "geolocation_address": null,
+        "geolocation_zip": null,
+        "year": "1886-01-01T00:00:00.000",
+        "geolocation_state": null,
+        "fall": "Fell",
+        "id": "12390",
+        "recclass": "L6",
+        "reclat": "32.033330",
+        "geolocation_city": null,
+        "nametype": "Valid"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -20,31 +45,6 @@
         "geolocation_state": null,
         "fall": "Fell",
         "id": "2",
-        "recclass": "L5",
-        "reclat": "50.775000",
-        "geolocation_city": null,
-        "nametype": "Valid"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.6762,
-          139.6503
-        ]
-      },
-      "properties": {
-        "mass": "720",
-        "name": "Tokyo",
-        "reclong": "6.083330",
-        "geolocation_address": null,
-        "geolocation_zip": null,
-        "year": "1880-01-01T00:00:00.000",
-        "geolocation_state": null,
-        "fall": "Fell",
-        "id": "1",
         "recclass": "L5",
         "reclat": "50.775000",
         "geolocation_city": null,
