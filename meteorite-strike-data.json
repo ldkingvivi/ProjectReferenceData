@@ -31,22 +31,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.23333,
-          56.18333
+          35.6762,
+          139.6503
         ]
       },
       "properties": {
         "mass": "720",
-        "name": "Aarhus",
-        "reclong": "10.233330",
+        "name": "Tokyo",
+        "reclong": "6.083330",
         "geolocation_address": null,
         "geolocation_zip": null,
-        "year": "1951-01-01T00:00:00.000",
+        "year": "1880-01-01T00:00:00.000",
         "geolocation_state": null,
         "fall": "Fell",
-        "id": "2",
-        "recclass": "H6",
-        "reclat": "56.183330",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "50.775000",
         "geolocation_city": null,
         "nametype": "Valid"
       }
