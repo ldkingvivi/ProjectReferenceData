@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.63333,
-          32.03333
+          139.65033,
+          35.67623
         ]
       },
       "properties": {
         "mass": "45000",
-        "name": "Kyushu",
+        "name": "Tokyo",
         "reclong": "130.633330",
         "geolocation_address": null,
         "geolocation_zip": null,
