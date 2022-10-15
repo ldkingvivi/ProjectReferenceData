@@ -23,7 +23,9 @@
         "recclass": "L6",
         "reclat": "32.033330",
         "geolocation_city": null,
-        "nametype": "Valid"
+        "nametype": "Valid",
+        "uptime": "99.9998",
+        "capacity": "0.9"
       }
     },
     {
@@ -48,7 +50,9 @@
         "recclass": "L5",
         "reclat": "50.775000",
         "geolocation_city": null,
-        "nametype": "Valid"
+        "nametype": "Valid",
+        "uptime": "99.9997"
+        "capacity": "0.7"
       }
     }
   ],
