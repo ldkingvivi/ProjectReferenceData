@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "mass": "45000",
+        "mass": "720",
         "name": "Kyushu",
         "reclong": "130.633330",
         "geolocation_address": null,
@@ -44,7 +44,7 @@
         "year": "1880-01-01T00:00:00.000",
         "geolocation_state": null,
         "fall": "Fell",
-        "id": "1",
+        "id": "2",
         "recclass": "L5",
         "reclat": "50.775000",
         "geolocation_city": null,
